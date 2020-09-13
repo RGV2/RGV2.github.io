@@ -276,7 +276,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background: url(../images/content/banner_text_bg.jpg) no-repeat;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-    background-size: cover;
+    background-size: auto;
     background-position: -41px -85px;
 }
 .prt_logo_wrapper img{
@@ -1141,28 +1141,28 @@ input:focus, textarea:focus, select:focus, button:focus {
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 90%;
 }
 #circles-2{
 	background-image:url(../images/content/blockchain.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 90%;
 }
 #circles-3{
 	background-image:url(../images/content/python.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 90%;
 }
 #circles-4{
 	background-image:url(../images/content/golang.png);
     border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 90%;
 }
 .circles-decimals {
 	font-size: .4em;

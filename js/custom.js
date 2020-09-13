@@ -64,7 +64,7 @@ Assigned to: RGV2
 			number: 70,
 			text: '70%',
 			width: 8,
-			colors: ["#202020", "#00c8ff"],
+			colors: ["#202020", "#1565C0"],
 			duration: 900
 		});
 		var circle2 = Circles.create({
@@ -74,7 +74,7 @@ Assigned to: RGV2
 			number: 90,
 			text: '90%',
 			width: 8,
-			colors: ["#202020", "#ff8511"],
+			colors: ["#202020", "#2196F3"],
 			duration: 900
 		});
 		var circle3 = Circles.create({
@@ -84,7 +84,7 @@ Assigned to: RGV2
 			number: 50,
 			text: '50%',
 			width: 8,
-			colors: ["#202020", "#f26525"],
+			colors: ["#202020", "#FFC107"],
 			duration: 900
 		});
 		var circle4 = Circles.create({
@@ -94,7 +94,7 @@ Assigned to: RGV2
 			number: 50,
 			text: '50%',
 			width: 8,
-			colors: ["#202020", "#1d8bbe"],
+			colors: ["#202020", "#4DD0E1"],
 			duration: 900
 		});
 	});
