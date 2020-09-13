@@ -268,7 +268,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     padding: 200px 0px;
 }
 .prt_home_wrapper h1{
-	position:absolute;
+	position:static;
 	top:50%;
 	font-size:150px;
 	color: #ffffff;
