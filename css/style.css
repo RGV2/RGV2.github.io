@@ -1119,7 +1119,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 .circles-text {
     font-size: 36px !important;
-    text-align: center;
+    /* text-align: center; */
 	color:#ffffff;
 	font-weight:500;
 }
